@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cc155a1-9fb9-4006-878e-e1fa6d4a9054" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zr9lPXk7qc3kHZFzHurJtOW5Zx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.turtle">
+    <configuration name="awaretime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="moduls and functions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/awaretime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="timezonechallange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="moduls and functions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/timezonechallange.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="moduls and functions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turtle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="moduls and functions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turtle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tztest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="moduls and functions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tztest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tkinter" />
+        <item itemvalue="Python.timezonechallange" />
+        <item itemvalue="Python.awaretime" />
+        <item itemvalue="Python.tztest" />
+        <item itemvalue="Python.turtle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cc155a1-9fb9-4006-878e-e1fa6d4a9054" name="Default Changelist" comment="" />
+      <created>1585586495368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585586495368</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="0" key="#Notifications" timestamp="1585744276394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="260" y="0" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1585744276394" />
+    <state x="496" y="27" key="#turtle" timestamp="1585772652878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="27" key="#turtle/0.0.1536.824@0.0.1536.824" timestamp="1585772652878" />
+    <state width="1479" height="436" key="GridCell.Tab.0.bottom" timestamp="1585766279937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1479" height="436" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585766279937" />
+    <state width="1479" height="436" key="GridCell.Tab.0.center" timestamp="1585766279937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1479" height="436" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585766279937" />
+    <state width="1479" height="436" key="GridCell.Tab.0.left" timestamp="1585766279937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1479" height="436" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585766279936" />
+    <state width="1479" height="436" key="GridCell.Tab.0.right" timestamp="1585766279937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1479" height="436" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585766279937" />
+    <state width="1464" height="243" key="GridCell.Tab.1.bottom" timestamp="1585645972093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1464" height="243" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585645972093" />
+    <state width="1464" height="243" key="GridCell.Tab.1.center" timestamp="1585645972092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1464" height="243" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585645972092" />
+    <state width="1464" height="243" key="GridCell.Tab.1.left" timestamp="1585645972092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1464" height="243" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585645972092" />
+    <state width="1464" height="243" key="GridCell.Tab.1.right" timestamp="1585645972092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1464" height="243" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585645972092" />
+    <state x="394" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1585734592198">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="394" y="194" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585734592198" />
+    <state x="38" y="87" key="new project wizard" timestamp="1585766278364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="38" y="87" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585766278364" />
+  </component>
+</project>
